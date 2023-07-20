@@ -1,7 +1,10 @@
 .container{
 	width: 700px;
 	margin: 40px auto;
+
 }
+
+
 
 .card-white {
 	background: white;
@@ -17,11 +20,14 @@
 	color: black;
 	padding: 15px 20px;
 	border-radius: 5px;
+	font-size: larger;
+	font-weight: bolder;
+	font-family: 'Times New Roman', Times, serif;
 }
 
-.btn-blue hover {
-	background-color: rgb(234, 240, 206);
-	color: white;
+.btn-blue:hover {
+	background-color: rgb(235, 237, 224);
+	color: rgb(18, 126, 220);
 }	
 
 .list-horizontal {
